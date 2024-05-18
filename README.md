@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>How to get confidence score of claude 3 vision model on Bedrock?</title>
+    <title> How to get confidence score of claude 3 vision model on Bedrock? </title>
 </head>
 <body>
     <h1>Repository Overview</h1>
